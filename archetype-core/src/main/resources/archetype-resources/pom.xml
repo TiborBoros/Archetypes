@@ -4,4 +4,8 @@
   <groupId>${groupId}</groupId>
   <artifactId>${artifactId}</artifactId>
   <version>${version}</version>
+  <properties>
+  	<package>${package}</package>
+  	<className>${className}</className>
+  </properties>
 </project>
